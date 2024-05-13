@@ -32,7 +32,7 @@ In this new para we create a numbered list using numbers.
 3. Microeconomics
 
    
-This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more. And you can go to [ChatGPT] (http://chat.openai.com)
+This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more. And you can go to [ChatGPT](http://chat.openai.com)
 
 You can write code by using triple-ticks:
 
